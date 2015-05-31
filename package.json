@@ -1,0 +1,30 @@
+{
+  "name": "Shotty",
+  "version": "0.0.1",
+  "description": "Cross-browser visual testing",
+  "main": "lib/shotty.js",
+  "license": "GPLv3",
+  "author": "Mikhail Yurasov <me@yurasov.me>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myurasov/shotty"
+  },
+  "keywords": [
+    "visual",
+    "cross-browser",
+    "css",
+    "testing",
+    "selenium",
+    "webdriver",
+    "saucelabs"
+  ],
+  "bugs": {
+    "url": "https://github.com/myurasov/shotty/issues"
+  },
+  "homepage": "https://github.com/myurasov/shotty",
+  "dependencies": {
+    "lodash": "^3.7.0",
+    "mkdirp": "^0.5.0",
+    "webdriverio": "^2.4.5"
+  }
+}
