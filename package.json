@@ -1,13 +1,13 @@
 {
-  "name": "Shotty",
-  "version": "0.0.1",
+  "name": "screenshotty",
+  "version": "0.0.2",
   "description": "Cross-browser visual testing",
-  "main": "lib/shotty.js",
+  "main": "lib/screenshotty.js",
   "license": "GPLv3",
   "author": "Mikhail Yurasov <me@yurasov.me>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/myurasov/shotty"
+    "url": "https://github.com/myurasov/screenshotty"
   },
   "keywords": [
     "visual",
@@ -19,9 +19,9 @@
     "saucelabs"
   ],
   "bugs": {
-    "url": "https://github.com/myurasov/shotty/issues"
+    "url": "https://github.com/myurasov/screenshotty/issues"
   },
-  "homepage": "https://github.com/myurasov/shotty",
+  "homepage": "https://github.com/myurasov/screenshotty",
   "dependencies": {
     "lodash": "^3.7.0",
     "mkdirp": "^0.5.0",
